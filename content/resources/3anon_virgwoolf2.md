@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: af90147b-4345-bf81-e220-97dfdcadb098
 resourcetype: Document
 title: 3anon_virgwoolf2.pdf
 uid: a4a7092a-5f33-54fa-9f7e-1466a004c56e

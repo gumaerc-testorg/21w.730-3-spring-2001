@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 0f289c98-d508-98ed-5636-99956082a089
 resourcetype: Document
 title: kerwhenmemory.pdf
 uid: dd16ae4a-d765-8d7a-4627-41dbe2d2f876

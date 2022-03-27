@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: af90147b-4345-bf81-e220-97dfdcadb098
 resourcetype: Document
 title: Introduction_to_Portfolio.pdf
 uid: 4f6e45e6-659f-ba3b-ec43-4ea6dffafc41

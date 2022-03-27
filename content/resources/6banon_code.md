@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: af90147b-4345-bf81-e220-97dfdcadb098
 resourcetype: Document
 title: 6banon_code.pdf
 uid: 60231a0f-48fe-87c0-7f36-260b2dcbea61

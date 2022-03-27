@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: af90147b-4345-bf81-e220-97dfdcadb098
 resourcetype: Document
 title: 21W_7306thpaper.pdf
 uid: 6754c51d-6bdb-51a5-d0b3-84d6221f05a8

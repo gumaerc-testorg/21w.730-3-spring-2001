@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: af90147b-4345-bf81-e220-97dfdcadb098
 resourcetype: Document
 title: 1anon_rodrig2.pdf
 uid: 2d712a5a-522b-4039-2a29-5c3f13f2f632
