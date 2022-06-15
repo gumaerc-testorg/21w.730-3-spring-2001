@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/21w-730-3-expository-writing-autobiography-theory-and-practice-spring-2001/ff3e3335797e5a97ff6f2e0e94c920b5_def_of_essay.pdf
+file: /courses/21w-730-3-expository-writing-autobiography-theory-and-practice-spring-2001/ff3e3335797e5a97ff6f2e0e94c920b5_def_of_essay.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments

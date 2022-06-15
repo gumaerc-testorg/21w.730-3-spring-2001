@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, the schedule and routines, attendance and participation, writing
+  groups, conferences, plagiarism policy, and grading.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
