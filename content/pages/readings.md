@@ -1,10 +1,15 @@
 ---
 content_type: page
+description: This section provides a bibliography of texts and materials used in the
+  course and reading notes for students.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 0f289c98-d508-98ed-5636-99956082a089
 ---
 
-The following texts and materials used in the course - links to PDF files are reading notes for students. See the [calendar]({{< baseurl >}}/pages/calendar) for details of readings due each class session.
+The following texts and materials used in the course - links to PDF files are reading notes for students. See the {{% resource_link "8b0d1868-4545-6a1f-a81c-7df1be414786" "calendar" %}} for details of readings due each class session.
 
 Strunk and White. [_The Elements of Style_](http://www.bartleby.com/141/)_._ Macmillan, 1959, rpt. any year.
 
@@ -12,9 +17,9 @@ Leslie C. Perelman, James Paradis, and Edward Barrett. _The Mayfield Handbook of
 
 A good dictionary (full-sized, preferably cloth, i.e., _[Merriam-Webster](http://www.m-w.com/)_)
 
-Conway, Jill Ker. _When Memory Speaks: Reflections_ _on Autobiography._ New York : Knopf, 1998. ([PDF]({{< baseurl >}}/resources/kerwhenmemory))
+Conway, Jill Ker. _When Memory Speaks: Reflections_ _on Autobiography._ New York : Knopf, 1998. ({{% resource_link "dd16ae4a-d765-8d7a-4627-41dbe2d2f876" "PDF" %}})
 
-———. "Memory's Plots." In _When Memory Speaks._ ([PDF]({{< baseurl >}}/resources/kermemoryplots))
+———. "Memory's Plots." In _When Memory Speaks._ ({{% resource_link "1d778a46-82e1-1bee-e23c-3e70c8ca2ba9" "PDF" %}})
 
 Rodriguez, Richard. "The Achievement of Desire." In _Hunger of Memory._ David R. Godine Publisher, 1991. Pp. 45-73.
 

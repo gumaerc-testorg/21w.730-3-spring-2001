@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the course assignments, guidelines on writing,
+  and examples of student work.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: af90147b-4345-bf81-e220-97dfdcadb098
 ---
@@ -10,7 +15,7 @@ I will read and comment upon your essays each week. Each assignment must be comp
 
 Please read my comments from the beginning, along with what you have written. If you do not understand something, ask me. A revision that heads in a completely different direction from what I suggest, or that fails to incorporate my proofreading marks, suffers. My final comments remark on the major strengths and weaknesses of your paper. You should read the marginal comments to see how they contribute to the final one. If you disagree with my evaluation, please discuss it with me. Ditto, the grade.
 
-Definitions of the Essay ([PDF]({{< baseurl >}}/resources/def_of_essay))
+Definitions of the Essay ({{% resource_link "ff3e3335-797e-5a97-ff6f-2e0e94c920b5" "PDF" %}})
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -27,64 +32,64 @@ STUDENT SAMPLES
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-1 ([PDF]({{< baseurl >}}/resources/paper1))
+1 ({{% resource_link "443f4510-c410-d192-27c8-b011526e90c0" "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/1anon_rodrig2))
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-2 ([PDF]({{< baseurl >}}/resources/paper2))
-{{< tdclose >}}
-{{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/2anon_slave))
+({{% resource_link "2d712a5a-522b-4039-2a29-5c3f13f2f632" "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-3 ([PDF]({{< baseurl >}}/resources/paper3))
+2 ({{% resource_link "3b44a01b-a87c-07dd-519b-ec5ef6c98cce" "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/3anon_virgwoolf2))
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-4 ([PDF]({{< baseurl >}}/resources/paper4))
-{{< tdclose >}}
-{{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/4anon_baldwin2))
+({{% resource_link "717b2678-1a92-37c1-ef22-11f313a3c72b" "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-5 ([PDF]({{< baseurl >}}/resources/paper5))
+3 ({{% resource_link "c61c6876-f7ea-00db-f9b5-a5984123184d" "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/5anon_mhk))
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-6 ([PDF]({{< baseurl >}}/resources/21w_7306thpaper))
-{{< tdclose >}}
-{{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/6banon_code))
+({{% resource_link "a4a7092a-5f33-54fa-9f7e-1466a004c56e" "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Portfolio ([PDF]({{< baseurl >}}/resources/introduction_to_portfolio))
+4 ({{% resource_link "44fbfa79-aa23-a69a-6bce-81330c746a0d" "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/6aanon_retro))
+({{% resource_link "38954308-62c5-e2aa-ed54-31be11c8a480" "PDF" %}})
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5 ({{% resource_link "1bc408ad-b1b4-4536-177f-f2f2cf6622f8" "PDF" %}})
+{{< tdclose >}}
+{{< tdopen >}}
+({{% resource_link "db649951-ea6a-26dd-a460-f5d5c5f992c8" "PDF" %}})
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6 ({{% resource_link "6754c51d-6bdb-51a5-d0b3-84d6221f05a8" "PDF" %}})
+{{< tdclose >}}
+{{< tdopen >}}
+({{% resource_link "60231a0f-48fe-87c0-7f36-260b2dcbea61" "PDF" %}})
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Portfolio ({{% resource_link "4f6e45e6-659f-ba3b-ec43-4ea6dffafc41" "PDF" %}})
+{{< tdclose >}}
+{{< tdopen >}}
+({{% resource_link "fcb5ffe9-83ea-e14c-144d-6f820aa53b47" "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
