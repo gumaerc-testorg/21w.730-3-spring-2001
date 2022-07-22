@@ -6,6 +6,7 @@ file: /courses/21w-730-3-expository-writing-autobiography-theory-and-practice-sp
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: kerwhenmemory.pdf
 uid: dd16ae4a-d765-8d7a-4627-41dbe2d2f876
 ---
 Ideas from Jill Ker Conway?s book on Women?s Autobiography: "When Memory Speaks."
-

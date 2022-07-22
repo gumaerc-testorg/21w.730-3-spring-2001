@@ -5,6 +5,7 @@ file: /courses/21w-730-3-expository-writing-autobiography-theory-and-practice-sp
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 2anon_slave.pdf
 uid: 717b2678-1a92-37c1-ef22-11f313a3c72b
 ---
 Student response to second written assignment.
-

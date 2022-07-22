@@ -6,6 +6,7 @@ file: /courses/21w-730-3-expository-writing-autobiography-theory-and-practice-sp
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: kermemoryplots.pdf
 uid: 1d778a46-82e1-1bee-e23c-3e70c8ca2ba9
 ---
 READING NOTES on "Memory?s Plots" from Jill Ker Conway?s "When Memory Speaks: Reflections on Autobiography." (New York: Knopf), 1998
-

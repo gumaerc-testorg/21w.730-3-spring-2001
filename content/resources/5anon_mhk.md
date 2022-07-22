@@ -5,6 +5,7 @@ file: /courses/21w-730-3-expository-writing-autobiography-theory-and-practice-sp
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 5anon_mhk.pdf
 uid: db649951-ea6a-26dd-a460-f5d5c5f992c8
 ---
 Student response to fifth written assignment.
-
