@@ -2,7 +2,8 @@
 content_type: resource
 description: 'Ideas from Jill Ker Conway?s book on Women?s Autobiography: "When Memory
   Speaks."'
-file: /courses/21w-730-3-expository-writing-autobiography-theory-and-practice-spring-2001/dd16ae4ad7658d7a462741dbe2d2f876_kerwhenmemory.pdf
+file: /ol-ocw-studio-app/courses/21w-730-3-expository-writing-autobiography-theory-and-practice-spring-2001/dd16ae4ad7658d7a462741dbe2d2f876_kerwhenmemory.pdf
+file_size: 108589
 file_type: application/pdf
 learning_resource_types:
 - Readings

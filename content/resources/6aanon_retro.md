@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Student response to sixth written assignment.
-file: /courses/21w-730-3-expository-writing-autobiography-theory-and-practice-spring-2001/fcb5ffe983eae14c144d6f820aa53b47_6aanon_retro.pdf
+file: /ol-ocw-studio-app/courses/21w-730-3-expository-writing-autobiography-theory-and-practice-spring-2001/fcb5ffe983eae14c144d6f820aa53b47_6aanon_retro.pdf
+file_size: 251318
 file_type: application/pdf
 learning_resource_types:
 - Assignments

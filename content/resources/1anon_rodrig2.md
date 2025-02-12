@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Student response to first paper assignment.
-file: /courses/21w-730-3-expository-writing-autobiography-theory-and-practice-spring-2001/2d712a5a522b40392a295c3f13f2f632_1anon_rodrig2.pdf
+file: /ol-ocw-studio-app/courses/21w-730-3-expository-writing-autobiography-theory-and-practice-spring-2001/2d712a5a522b40392a295c3f13f2f632_1anon_rodrig2.pdf
+file_size: 234237
 file_type: application/pdf
 learning_resource_types:
 - Assignments

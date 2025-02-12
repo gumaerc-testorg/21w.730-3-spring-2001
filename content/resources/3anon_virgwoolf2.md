@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Student response to third written assignment.
-file: /courses/21w-730-3-expository-writing-autobiography-theory-and-practice-spring-2001/a4a7092a5f3354fa9f7e1466a004c56e_3anon_virgwoolf2.pdf
+file: /ol-ocw-studio-app/courses/21w-730-3-expository-writing-autobiography-theory-and-practice-spring-2001/a4a7092a5f3354fa9f7e1466a004c56e_3anon_virgwoolf2.pdf
+file_size: 224455
 file_type: application/pdf
 learning_resource_types:
 - Assignments

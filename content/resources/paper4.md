@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: ''
-file: /courses/21w-730-3-expository-writing-autobiography-theory-and-practice-spring-2001/44fbfa79aa23a69a6bce81330c746a0d_paper4.pdf
+file: /ol-ocw-studio-app/courses/21w-730-3-expository-writing-autobiography-theory-and-practice-spring-2001/44fbfa79aa23a69a6bce81330c746a0d_paper4.pdf
+file_size: 72869
 file_type: application/pdf
 learning_resource_types:
 - Assignments
